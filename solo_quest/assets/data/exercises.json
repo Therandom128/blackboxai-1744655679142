@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ex001",
+    "name": "Push-ups",
+    "description": "A classic bodyweight exercise that targets the chest, shoulders, and triceps. Start in a plank position with hands shoulder-width apart, lower your body until your chest nearly touches the floor, then push back up.",
+    "imageUrl": "assets/images/exercises/pushups.png",
+    "category": "Strength",
+    "difficulty": 2,
+    "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+    "equipment": ["None"],
+    "tips": [
+      "Keep your body in a straight line from head to heels",
+      "Engage your core throughout the movement",
+      "Lower yourself until your elbows form a 90-degree angle",
+      "For beginners, try doing push-ups on your knees"
+    ],
+    "experiencePoints": 20,
+    "caloriesBurned": 8
+  },
+  {
+    "id": "ex002",
+    "name": "Squats",
+    "description": "A fundamental lower body exercise that targets the quadriceps, hamstrings, and glutes. Stand with feet shoulder-width apart, lower your body by bending your knees and pushing your hips back, then return to standing.",
+    "imageUrl": "assets/images/exercises/squats.png",
+    "category": "Strength",
+    "difficulty": 2,
+    "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+    "equipment": ["None"],
+    "tips": [
+      "Keep your chest up and back straight",
+      "Push your knees outward as you descend",
+      "Lower until your thighs are parallel to the ground",
+      "Keep your weight on your heels"
+    ],
+    "experiencePoints": 20,
+    "caloriesBurned": 8
+  },
+  {
+    "id": "ex003",
+    "name": "Plank",
+    "description": "An isometric core exercise that strengthens the abdominals, back, and shoulders. Hold a position similar to a push-up, but with your weight on your forearms.",
+    "imageUrl": "assets/images/exercises/plank.png",
+    "category": "Core",
+    "difficulty": 2,
+    "muscleGroups": ["Abdominals", "Lower Back", "Shoulders"],
+    "equipment": ["None"],
+    "tips": [
+      "Keep your body in a straight line from head to heels",
+      "Engage your core and glutes",
+      "Don't let your hips sag or pike up",
+      "Focus on breathing steadily throughout the hold"
+    ],
+    "experiencePoints": 15,
+    "caloriesBurned": 5
+  },
+  {
+    "id": "ex004",
+    "name": "Lunges",
+    "description": "A unilateral lower body exercise that targets the quadriceps, hamstrings, and glutes. Step forward with one leg, lowering your body until both knees form 90-degree angles, then push back to the starting position.",
+    "imageUrl": "assets/images/exercises/lunges.png",
+    "category": "Strength",
+    "difficulty": 2,
+    "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+    "equipment": ["None"],
+    "tips": [
+      "Keep your upper body straight and shoulders back",
+      "Step forward far enough that your knee doesn't extend past your toes",
+      "Lower your body until both knees form 90-degree angles",
+      "Push through the heel of your front foot to return to standing"
+    ],
+    "experiencePoints": 20,
+    "caloriesBurned": 8
+  },
+  {
+    "id": "ex005",
+    "name": "Burpees",
+    "description": "A full-body exercise that combines a squat, push-up, and jump. Begin in a standing position, drop into a squat, kick your feet back into a plank, perform a push-up, jump your feet back to the squat position, and explosively jump up.",
+    "imageUrl": "assets/images/exercises/burpees.png",
+    "category": "Cardio",
+    "difficulty": 4,
+    "muscleGroups": ["Full Body"],
+    "equipment": ["None"],
+    "tips": [
+      "Focus on form rather than speed, especially when beginning",
+      "Modify by stepping back instead of jumping if needed",
+      "Keep your core engaged throughout the movement",
+      "Land softly when jumping to protect your joints"
+    ],
+    "experiencePoints": 40,
+    "caloriesBurned": 15
+  },
+  {
+    "id": "ex006",
+    "name": "Pull-ups",
+    "description": "An upper body exercise that targets the back, biceps, and shoulders. Hang from a bar with palms facing away from you, then pull your body up until your chin is over the bar.",
+    "imageUrl": "assets/images/exercises/pullups.png",
+    "category": "Strength",
+    "difficulty": 4,
+    "muscleGroups": ["Back", "Biceps", "Shoulders"],
+    "equipment": ["Pull-up Bar"],
+    "tips": [
+      "Start from a dead hang with arms fully extended",
+      "Pull your shoulder blades down and back before pulling up",
+      "Try to get your chin over the bar",
+      "Lower yourself with control"
+    ],
+    "experiencePoints": 40,
+    "caloriesBurned": 10
+  },
+  {
+    "id": "ex007",
+    "name": "Dips",
+    "description": "An upper body exercise that targets the triceps, chest, and shoulders. Support your body between parallel bars or on the edge of a bench, lower your body by bending your elbows, then push back up.",
+    "imageUrl": "assets/images/exercises/dips.png",
+    "category": "Strength",
+    "difficulty": 3,
+    "muscleGroups": ["Triceps", "Chest", "Shoulders"],
+    "equipment": ["Parallel Bars", "Bench"],
+    "tips": [
+      "Keep your elbows close to your body for more triceps focus",
+      "Lean forward slightly for more chest engagement",
+      "Lower until your elbows form a 90-degree angle",
+      "For beginners, use a bench and keep your feet on the ground"
+    ],
+    "experiencePoints": 30,
+    "caloriesBurned": 8
+  },
+  {
+    "id": "ex008",
+    "name": "Mountain Climbers",
+    "description": "A dynamic exercise that targets the core, shoulders, and hip flexors while providing cardiovascular benefits. Start in a plank position and alternate bringing your knees toward your chest in a running motion.",
+    "imageUrl": "assets/images/exercises/mountain_climbers.png",
+    "category": "Cardio",
+    "difficulty": 3,
+    "muscleGroups": ["Core", "Shoulders", "Hip Flexors"],
+    "equipment": ["None"],
+    "tips": [
+      "Keep your hips level and don't let them rise up",
+      "Engage your core throughout the movement",
+      "Move at a controlled pace to maintain form",
+      "Breathe rhythmically with your movements"
+    ],
+    "experiencePoints": 25,
+    "caloriesBurned": 10
+  },
+  {
+    "id": "ex009",
+    "name": "Deadlifts",
+    "description": "A compound exercise that targets the hamstrings, glutes, lower back, and traps. Stand with feet hip-width apart, bend at the hips and knees to grasp a barbell, then stand up straight while keeping the barbell close to your body.",
+    "imageUrl": "assets/images/exercises/deadlifts.png",
+    "category": "Strength",
+    "difficulty": 4,
+    "muscleGroups": ["Hamstrings", "Glutes", "Lower Back", "Traps"],
+    "equipment": ["Barbell", "Dumbbells"],
+    "tips": [
+      "Keep your back straight and chest up throughout the movement",
+      "Push through your heels as you lift",
+      "Keep the weight close to your body",
+      "Engage your core to protect your lower back"
+    ],
+    "experiencePoints": 40,
+    "caloriesBurned": 12
+  },
+  {
+    "id": "ex010",
+    "name": "Russian Twists",
+    "description": "A rotational exercise that targets the obliques and abdominals. Sit on the floor with knees bent, lean back slightly, lift your feet off the ground, and twist your torso from side to side.",
+    "imageUrl": "assets/images/exercises/russian_twists.png",
+    "category": "Core",
+    "difficulty": 3,
+    "muscleGroups": ["Obliques", "Abdominals"],
+    "equipment": ["None", "Dumbbell", "Medicine Ball"],
+    "tips": [
+      "Keep your back straight, not rounded",
+      "Twist from your core, not your arms",
+      "For added difficulty, hold a weight or medicine ball",
+      "Keep your feet elevated throughout the movement for more challenge"
+    ],
+    "experiencePoints": 25,
+    "caloriesBurned": 8
+  }
+]
